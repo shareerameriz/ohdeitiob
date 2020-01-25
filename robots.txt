@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://muodaexaew.freecodecampdallas.com/sitemap.xml
